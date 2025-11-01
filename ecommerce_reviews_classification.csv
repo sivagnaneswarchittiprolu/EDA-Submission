@@ -1,0 +1,266 @@
+review_id,rating_dup,user_id,sentiment,helpful_votes,rating,review_text,verified_purchase,product_id
+R90000,5.0,20105.0,positive,125.0,5.0,Good roduct,No,1033.0
+R90001,5.0,,positive,80.0,5.0,Terrible quality,No,1080.0
+R90002,4.0,20356.0,positive,21.0,4.0,,No,1074.0
+R90003,5.0,20007.0,positive,189.0,5.0,Excellent!,Yes,1092.0
+R90004,5.0,20261.0,positive,55.0,5.0,Not as expected,Yes,1033.0
+R90005,3.0,20342.0,neutral,85.0,3.0,Would buy again,No,1036.0
+R90006,1.0,20436.0,negative,122.0,1.0,Value for money,Yes,1057.0
+R90007,3.0,20079.0,,199.0,3.0,Value for money,Yes,1059.0
+R90008,5.0,,positive,110.0,5.0,Excellent!,,1025.0
+R90009,4.0,20176.0,positive,7.0,4.0,EXCELLENT!,Yes,1044.0
+R90010,3.0,20391.0,neutral,61.0,3.0,Value fo money,Yes,1044.0
+R90011,5.0,20063.0,positive,77.0,5.0,Terrible quality,No,1031.0
+R90012,2.0,20387.0,negative,151.0,2.0,Value for money,Ye,
+R90013,5.0,20287.0,positive,21.0,5.0,Value for money,Ys,1083.0
+,5.0,20308.0,positive,14.0,5.0,Terrible quality,Yes,1070.0
+R90015,5.0,20112.0,positive,155.0,5.0,Not as expected,No,1022.0
+R90016,3.0,20450.0,neutral,149.0,3.0,Terrible quality,Yes,1064.0
+R90017,5.0,20318.0,positive,30.0,5.0,Good product,Yes,1038.0
+R90018,3.0,20369.0,neutral,189.0,3.0,,YES,1066.0
+R90019,4.0,20207.0,positive,86.0,4.0,Value for money,,1044.0
+R90020,4.0,20443.0,positive,68.0,4.0,Would buy again,Yes,1066.0
+R90021,4.0,20225.0,positive,108.0,4.0,Excellent!,,1062.0
+R90022,5.0,20332.0,positive,166.0,5.0,Value for money,Yes,1069.0
+R90023,4.0,20416.0,positive,,4.0,Not as expected,Yes,1094.0
+R90024,5.0,20277.0,positive,39.0,5.0,Value for money,,1053.0
+R90025,3.0,20382.0,neutral,68.0,3.0,Terrible quality,es,1026.0
+R90026,4.0,20286.0,positive,182.0,4.0,Excellent!,YES,1092.0
+R90027,4.0,20279.0,positive,70.0,4.0,Terrible quality,YES,1078.0
+R90028,3.0,20002.0,neutral,63.0,3.0,Value for money,Ye,1035.0
+R90029,5.0,20032.0,positive,7.0,5.0,Not as expected,No,1004.0
+R90030,5.0,20477.0,positive,70.0,5.0,Terrible quality,YES,1066.0
+R90031,4.0,20409.0,positive,85.0,4.0,,Yes,1050.0
+R90032,5.0,20481.0,positive,43.0,5.0,Value for money,YES,1088.0
+R90033,4.0,20306.0,positive,37.0,4.0,Not as expected,NO,1031.0
+R90034,,20213.0,negative,116.0,,Excellent!,No,1020.0
+R90035,4.0,20029.0,positive,148.0,4.0,EXCELLENT!,Yes,1016.0
+R90036,4.0,20418.0,positive,3.0,4.0,,Yes,1072.0
+R90037,5.0,20024.0,positive,159.0,5.0,Good product,Yes,1025.0
+R90038,1.0,20027.0,negative,54.0,1.0,Terrible quality,Yes,1021.0
+R90039,4.0,20096.0,positive,92.0,4.0,Value for money,Yes,1040.0
+R90040,2.0,20086.0,negative,187.0,2.0,Excellent!,No,1058.0
+R90041,2.0,20025.0,negative,58.0,2.0,Value for money,No,1086.0
+R90042,4.0,20119.0,positive,93.0,4.0,,No,1074.0
+R90043,3.0,20200.0,neutral,66.0,3.0,Terrible quality,Yes,1009.0
+R90044,5.0,20391.0,positive,4.0,5.0,Not as expcted,Yes,1086.0
+R90045,4.0,20356.0,positive,82.0,4.0,Value for money,Yes,
+R90046,3.0,20352.0,neutral,71.0,3.0,Would uy again,Yes,1054.0
+R90047,4.0,20014.0,positive,126.0,4.0,Not as expected,No,1025.0
+R90048,1.0,20304.0,negative,,1.0,Not as expected,Yes,1003.0
+R90049,5.0,20253.0,positive,26.0,5.0,Not as expected,Yes,1026.0
+R90050,1.0,20110.0,negative,12.0,1.0,Terrible quality,No,1097.0
+R90051,1.0,20007.0,negative,133.0,1.0,Good product,No,1057.0
+R90052,4.0,20438.0,positive,64.0,4.0,Value for money,No,1002.0
+R90053,5.0,20340.0,positive,,5.0,Not as expected,No,1049.0
+R90054,5.0,20127.0,positive,,5.0,Excellent!,,1095.0
+R90055,3.0,20185.0,neutral,40.0,3.0,Terrible quality,YES,1025.0
+R90056,,20386.0,neutral,14.0,,Terrible quality,Yes,1017.0
+R90057,4.0,20392.0,positive,132.0,4.0,Not as expected,Yes,1006.0
+R90058,5.0,20499.0,positive,14.0,5.0,Excellent!,Ye,1044.0
+R90059,4.0,20013.0,positive,0.0,4.0,Would buy again,Yes,1012.0
+,4.0,20229.0,positive,14.0,4.0,Terrible quality,No,1005.0
+R90061,2.0,20090.0,negative,187.0,2.0,Not s expected,Yes,1034.0
+R90062,3.0,20403.0,neutral,47.0,3.0,Value for money,Ys,1094.0
+R90063,4.0,20003.0,positive,181.0,4.0,Not as expected,Yes,1052.0
+R90064,2.0,20151.0,negative,182.0,2.0,Value for money,YES,1067.0
+R90065,3.0,20218.0,neutral,71.0,3.0,Value for money,Ye,1041.0
+R90066,3.0,20075.0,neutral,116.0,3.0,Good poduct,No,1003.0
+R90067,4.0,20283.0,positive,26.0,4.0,Good product,YES,1059.0
+R90068,1.0,20354.0,negative,157.0,1.0,Would buy again,NO,1044.0
+R90069,4.0,20215.0,,59.0,4.0,,Yes,1071.0
+R90070,5.0,20158.0,positive,65.0,5.0,Value for money,Ye,1074.0
+R90071,1.0,20250.0,negative,173.0,1.0,Would buy again,Yes,1065.0
+R90072,4.0,20066.0,positive,51.0,4.0,Would buy again,Yes,1081.0
+R90073,5.0,20221.0,positive,80.0,5.0,Not as expected,Yes,
+R90074,3.0,20191.0,neutral,34.0,3.0,Not as expected,Yes,1021.0
+R90075,2.0,20218.0,negative,120.0,2.0,Not as expected,Yes,1011.0
+R90076,1.0,20372.0,negative,41.0,1.0,EXCELLENT!,No,1080.0
+R90077,4.0,20016.0,positive,183.0,4.0,Value for money,Yes,1050.0
+R90078,4.0,20389.0,positive,44.0,4.0,Would buy again,Yes,1016.0
+R90079,3.0,20494.0,neutral,51.0,3.0,Excellent!,Yes,1035.0
+R90080,5.0,20106.0,positive,150.0,5.0,Terrible quality,Yes,1092.0
+R90081,5.0,20465.0,positive,,5.0,Value for mone,YES,1048.0
+R90082,3.0,20443.0,neutral,28.0,3.0,Terrible quality,YES,1015.0
+R90083,5.0,20226.0,positive,56.0,5.0,NOT AS EXPECTED,Yes,1074.0
+R90084,3.0,20474.0,neutral,18.0,3.0,TERRIBLE QUALITY,Yes,1043.0
+R90085,4.0,20080.0,positive,7.0,4.0,Not as expected,Yes,1021.0
+R90086,2.0,20266.0,negative,177.0,2.0,Value for money,,1093.0
+R90087,4.0,20165.0,positive,134.0,4.0,Value for money,No,1007.0
+R90088,3.0,,neutral,138.0,3.0,,Ye,1017.0
+R90089,4.0,20233.0,positive,194.0,4.0,Excellent!,YES,1079.0
+R90090,3.0,20161.0,neutral,65.0,3.0,Not as expected,YES,1083.0
+R90091,5.0,20174.0,positive,82.0,5.0,Good product,No,1071.0
+R90092,2.0,20159.0,negative,155.0,2.0,Good product,o,1093.0
+R90093,3.0,20362.0,neutral,183.0,3.0,Would buy again,No,1037.0
+R90094,3.0,20375.0,neutral,27.0,3.0,Excellent!,Yes,1028.0
+R90095,1.0,,negative,88.0,1.0,Not as expected,Yes,1076.0
+R90096,5.0,20173.0,positive,74.0,5.0,Would buy again,No,1080.0
+R90097,5.0,20237.0,positive,,5.0,Excelent!,Ye,1080.0
+R90098,5.0,20162.0,positive,129.0,5.0,Good product,Yes,1072.0
+R90099,5.0,20475.0,positive,75.0,5.0,Not as expected,YES,1001.0
+R90100,1.0,20405.0,negative,188.0,1.0,Excellent!,Ys,1058.0
+R90101,2.0,20399.0,negative,75.0,2.0,Terrible quality,Yes,1041.0
+R90102,4.0,20237.0,positive,113.0,4.0,Not as expected,Yes,1087.0
+R90103,5.0,20105.0,positive,152.0,5.0,,No,1020.0
+R90104,4.0,20117.0,positive,94.0,4.0,Value for mony,Ye,1001.0
+R90105,4.0,20231.0,positive,53.0,4.0,Value for money,Yes,1004.0
+R90106,2.0,20075.0,negative,144.0,2.0,Value for money,,
+R90107,3.0,20004.0,neutral,175.0,3.0,Would buy again,es,1023.0
+R90108,4.0,20217.0,positive,,4.0,Ecellent!,No,1007.0
+R90109,5.0,,,188.0,5.0,Value for money,NO,1029.0
+R90110,1.0,20332.0,negative,1.0,1.0,Excellent!,YES,1049.0
+R90111,5.0,20407.0,positive,79.0,5.0,Excellent!,YES,1021.0
+R90112,,20235.0,positive,64.0,,Ecellent!,No,1058.0
+R90113,5.0,20322.0,positive,51.0,5.0,Not as expected,Yes,1023.0
+R90114,5.0,20031.0,positive,33.0,5.0,Terrible quality,Ys,1025.0
+R90115,1.0,20406.0,negative,44.0,1.0,Terrible quality,Yes,1060.0
+,5.0,20176.0,positive,128.0,5.0,Would buy again,No,1007.0
+,4.0,20499.0,positive,99.0,4.0,Value for money,N,1011.0
+R90118,5.0,20484.0,positive,51.0,5.0,Would buy again,Yes,1013.0
+R90119,3.0,20118.0,neutral,66.0,3.0,Excellent!,Ye,1029.0
+R90120,4.0,20189.0,positive,97.0,4.0,Good product,YES,1054.0
+R90121,1.0,20101.0,negative,75.0,1.0,Good product,,1098.0
+R90122,1.0,20364.0,negative,55.0,1.0,Excellent!,Yes,1060.0
+R90123,5.0,20485.0,,185.0,5.0,,Yes,1061.0
+R90124,5.0,20460.0,positive,108.0,5.0,Terrible quality,,1030.0
+R90125,4.0,20078.0,positive,49.0,4.0,WOULD BUY AGAIN,,1091.0
+R90126,4.0,20321.0,positive,100.0,4.0,Not as expecte,No,1026.0
+R90127,5.0,20138.0,positive,118.0,5.0,Good product,Ys,1099.0
+R90128,3.0,20335.0,neutral,152.0,3.0,Would buy again,Yes,1000.0
+R90129,5.0,20401.0,positive,139.0,5.0,Good product,No,1040.0
+R90130,4.0,20225.0,positive,114.0,4.0,Terrible quality,Yes,1013.0
+R90131,4.0,20265.0,positive,72.0,4.0,Terrible quality,Yes,1073.0
+R90132,5.0,20332.0,positive,192.0,5.0,Excellent!,Ye,1049.0
+R90133,4.0,20223.0,positive,55.0,4.0,Excellent!,No,1041.0
+R90134,4.0,20059.0,positive,49.0,4.0,Good product,es,1070.0
+R90135,5.0,20263.0,,155.0,5.0,,es,1039.0
+,5.0,20454.0,positive,,5.0,Would buy again,NO,
+R90137,5.0,20047.0,positive,165.0,5.0,Excellent!,Yes,1099.0
+,4.0,20080.0,positive,63.0,4.0,,Yes,1090.0
+R90139,3.0,20296.0,neutral,53.0,3.0,Value for money,YES,1010.0
+R90140,3.0,20474.0,neutral,35.0,3.0,Would buy again,Yes,1062.0
+R90141,1.0,20378.0,negative,171.0,1.0,Would buy again,Ye,1048.0
+R90142,5.0,20007.0,positive,43.0,5.0,Not as expected,YES,1036.0
+R90143,3.0,20348.0,neutral,196.0,3.0,Value for money,es,1009.0
+R90144,4.0,20248.0,positive,118.0,4.0,Terrible quality,Yes,1053.0
+R90145,5.0,20243.0,positive,92.0,5.0,Would buy again,YES,1006.0
+R90146,5.0,20164.0,positive,180.0,5.0,,YES,1080.0
+R90147,1.0,20346.0,negative,140.0,1.0,NOT AS EXPECTED,o,1011.0
+R90148,3.0,20420.0,neutral,171.0,3.0,Value for money,Ye,1054.0
+R90149,5.0,20319.0,positive,131.0,5.0,Excellent!,Ys,1035.0
+R90150,4.0,20186.0,positive,69.0,4.0,Terrible quality,No,1006.0
+R90151,5.0,20248.0,positive,178.0,5.0,Excellent!,No,1023.0
+R90152,5.0,20126.0,positive,101.0,5.0,Not as expected,Yes,1033.0
+R90153,4.0,20087.0,positive,197.0,4.0,Terrible quality,No,1064.0
+R90154,4.0,20044.0,positive,10.0,4.0,Good produc,Yes,1028.0
+R90155,4.0,20399.0,positive,181.0,4.0,Good product,o,1025.0
+R90156,4.0,20281.0,positive,109.0,4.0,Good product,No,
+R90157,4.0,20245.0,,189.0,4.0,Value for money,Ys,1064.0
+R90158,5.0,,positive,186.0,5.0,,NO,1044.0
+R90159,5.0,20410.0,,60.0,5.0,Value for money,No,1016.0
+R90160,3.0,20217.0,neutral,167.0,3.0,Value for money,Yes,1035.0
+R90161,5.0,20426.0,positive,131.0,5.0,Value for money,No,1072.0
+,4.0,20014.0,,154.0,4.0,Value for money,Yes,1062.0
+R90163,5.0,20255.0,positive,15.0,5.0,Good product,No,1022.0
+R90164,2.0,20313.0,negative,6.0,2.0,Would buy again,No,1092.0
+,3.0,20176.0,neutral,10.0,3.0,Would buy again,YES,1065.0
+R90166,3.0,20334.0,neutral,199.0,3.0,Not as expected,YES,1081.0
+R90167,3.0,20214.0,neutral,63.0,3.0,Good product,No,1091.0
+R90168,3.0,20024.0,neutral,179.0,3.0,Terrible uality,Yes,1041.0
+R90169,5.0,20491.0,positive,127.0,5.0,VALUE FOR MONEY,Yes,
+R90170,4.0,20323.0,positive,5.0,4.0,Would buy again,YES,1074.0
+R90171,5.0,20291.0,positive,119.0,5.0,Not as expected,Ye,1070.0
+R90172,,20116.0,positive,47.0,,Would buy aain,,1042.0
+R90173,2.0,20079.0,negative,68.0,2.0,Terrible quality,Yes,
+R90174,4.0,20174.0,positive,120.0,4.0,TERRIBLE QUALITY,No,1054.0
+R90175,5.0,20231.0,positive,5.0,5.0,Good product,N,1055.0
+R90176,4.0,,positive,188.0,4.0,WOULD BUY AGAIN,YES,1078.0
+R90177,1.0,20468.0,negative,193.0,1.0,Terrible quality,YES,1030.0
+R90178,5.0,20435.0,positive,84.0,5.0,Excellent!,YES,1082.0
+R90179,3.0,20039.0,neutral,109.0,3.0,Terrible quality,Yes,1055.0
+R90180,4.0,20170.0,positive,180.0,4.0,Terrible quality,es,1073.0
+,4.0,20116.0,positive,27.0,4.0,Would buy again,o,1047.0
+R90182,3.0,20183.0,neutral,108.0,3.0,,es,1051.0
+R90183,3.0,,neutral,132.0,3.0,Terrible quality,NO,1071.0
+R90184,5.0,20386.0,positive,80.0,5.0,Not as expected,Ye,1000.0
+R90185,5.0,20070.0,positive,100.0,5.0,Value for money,YES,1001.0
+R90186,4.0,20139.0,positive,57.0,4.0,Terrible quality,Yes,1092.0
+R90187,3.0,20192.0,neutral,23.0,3.0,Excellent!,Yes,1041.0
+R90188,2.0,20170.0,negative,158.0,2.0,Terrible quality,NO,1073.0
+R90189,3.0,20100.0,,168.0,3.0,Good product,,1008.0
+R90190,4.0,20069.0,positive,67.0,4.0,Would buy aain,NO,1030.0
+R90191,3.0,20173.0,neutral,106.0,3.0,Excelent!,No,1095.0
+,1.0,20443.0,,173.0,1.0,Not as expected,YES,1001.0
+R90193,4.0,20188.0,positive,9.0,4.0,Terrible quality,Yes,1023.0
+R90194,,20432.0,positive,164.0,,,Yes,1042.0
+R90195,5.0,20214.0,positive,148.0,5.0,Not as expected,Ys,1069.0
+R90196,4.0,20024.0,positive,20.0,4.0,Terible quality,es,1071.0
+R90197,5.0,20088.0,positive,123.0,5.0,Good product,Yes,1088.0
+,4.0,,,112.0,4.0,Value for money,NO,1042.0
+R90199,4.0,20195.0,positive,96.0,4.0,Value for money,Yes,1050.0
+R90200,5.0,20318.0,positive,137.0,5.0,Excellent!,Yes,1088.0
+R90201,5.0,20285.0,positive,81.0,5.0,Terrible quality,Yes,1045.0
+R90202,4.0,20224.0,positive,96.0,4.0,NOT AS EXPECTED,Yes,1074.0
+R90203,4.0,20348.0,positive,92.0,4.0,Not as expcted,,1098.0
+R90204,5.0,20387.0,positive,,5.0,Excellent!,YES,1000.0
+R90205,4.0,20333.0,,23.0,4.0,,No,1086.0
+R90206,4.0,20340.0,positive,123.0,4.0,Excellent!,Ys,1066.0
+R90207,5.0,20326.0,positive,,5.0,Terrible quality,NO,1000.0
+R90208,2.0,20148.0,negative,,2.0,Value for money,es,1062.0
+,4.0,20070.0,positive,197.0,4.0,Good product,Yes,1075.0
+R90210,5.0,,positive,,5.0,Good product,NO,1061.0
+R90211,4.0,20443.0,positive,77.0,4.0,Not as expected,Yes,1060.0
+R90212,3.0,20289.0,neutral,132.0,3.0,Goodproduct,Ys,1039.0
+R90213,4.0,20086.0,positive,,4.0,Terrible quality,Yes,1094.0
+R90214,3.0,20386.0,neutral,35.0,3.0,Terrible quality,NO,1028.0
+R90215,4.0,20017.0,positive,111.0,4.0,Terrible quality,YES,1034.0
+R90216,3.0,20042.0,neutral,165.0,3.0,VALUE FOR MONEY,Ye,1091.0
+R90217,4.0,20075.0,positive,130.0,4.0,Would buy again,Yes,1084.0
+R90218,4.0,20333.0,positive,,4.0,Good product,N,1010.0
+R90219,4.0,20040.0,positive,21.0,4.0,Good product,,1089.0
+R90220,,20475.0,positive,7.0,,Terrible quality,Ye,1010.0
+R90221,3.0,20361.0,neutral,188.0,3.0,Not as expected,Yes,1062.0
+R90222,3.0,,neutral,125.0,3.0,Value for money,,1068.0
+R90223,4.0,20279.0,positive,77.0,4.0,Good product,o,1055.0
+R90224,3.0,20279.0,neutral,6.0,3.0,Would buy again,Yes,1006.0
+R90225,5.0,20258.0,positive,67.0,5.0,,NO,
+R90226,5.0,20442.0,positive,61.0,5.0,Excellent!,Yes,1094.0
+R90227,3.0,20441.0,neutral,146.0,3.0,Would buy again,Yes,1038.0
+R90228,2.0,20328.0,negative,106.0,2.0,Not as expected,YES,1041.0
+R90229,1.0,20023.0,negative,,1.0,,No,1071.0
+R90230,4.0,20449.0,positive,23.0,4.0,Would buy again,Yes,1052.0
+R90231,3.0,20374.0,neutral,133.0,3.0,Good product,Yes,1090.0
+R90232,1.0,20295.0,negative,,1.0,Would buy again,Yes,
+R90233,4.0,20475.0,positive,152.0,4.0,Terrible quality,Yes,1029.0
+R90234,5.0,20326.0,positive,88.0,5.0,Value for money,No,1077.0
+R90235,4.0,20392.0,positive,106.0,4.0,Would buy again,Yes,1000.0
+,5.0,20108.0,positive,40.0,5.0,,Yes,1023.0
+R90237,2.0,20358.0,negative,185.0,2.0,Terrible quality,YES,1005.0
+R90238,2.0,20443.0,negative,187.0,2.0,Not as expected,o,1005.0
+R90239,1.0,20422.0,negative,109.0,1.0,Excellent!,Yes,1068.0
+R90240,5.0,20288.0,positive,130.0,5.0,Would buy again,Yes,1061.0
+R90241,3.0,20417.0,neutral,8.0,3.0,Terrible quality,No,1034.0
+R90242,4.0,,positive,,4.0,Terrible uality,YES,1078.0
+R90243,,20340.0,positive,185.0,,Not as expected,NO,1034.0
+R90244,5.0,20316.0,positive,187.0,5.0,Not as expected,Yes,1047.0
+R90245,3.0,20348.0,,81.0,3.0,,Yes,1071.0
+R90246,4.0,,positive,176.0,4.0,Excelent!,Yes,1042.0
+,5.0,20125.0,positive,93.0,5.0,Good product,,1034.0
+R90248,4.0,20400.0,positive,132.0,4.0,Excellent!,No,1004.0
+R90249,4.0,20315.0,positive,189.0,4.0,Excellent!,,1030.0
+R90145,5.0,20243.0,positive,92.0,5.0,Would buy again,YES,1006.0
+R90083,5.0,20226.0,positive,56.0,5.0,NOT AS EXPECTED,Yes,1074.0
+R90045,4.0,20356.0,positive,82.0,4.0,Value for money,Yes,
+R90004,5.0,20261.0,positive,55.0,5.0,Not as expected,Yes,1033.0
+R90106,2.0,20075.0,negative,144.0,2.0,Value for money,,
+R90122,1.0,20364.0,negative,55.0,1.0,Excellent!,Yes,1060.0
+R90072,4.0,20066.0,positive,51.0,4.0,Would buy again,Yes,1081.0
+R90220,,20475.0,positive,7.0,,Terrible quality,Ye,1010.0
+R90080,5.0,20106.0,positive,150.0,5.0,Terrible quality,Yes,1092.0
+R90203,4.0,20348.0,positive,92.0,4.0,Not as expcted,,1098.0
+R90056,,20386.0,neutral,14.0,,Terrible quality,Yes,1017.0
+R90153,4.0,20087.0,positive,197.0,4.0,Terrible quality,No,1064.0
+R90032,5.0,20481.0,positive,43.0,5.0,Value for money,YES,1088.0
+R90096,5.0,20173.0,positive,74.0,5.0,Would buy again,No,1080.0
+R90035,4.0,20029.0,positive,148.0,4.0,EXCELLENT!,Yes,1016.0

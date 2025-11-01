@@ -1,0 +1,266 @@
+rating_dup,sentiment,helpful_votes,rating,review_text,verified_purchase
+5.0,positive,125.0,5.0,Good roduct,No
+5.0,positive,80.0,5.0,Terrible quality,No
+4.0,positive,21.0,4.0,Terrible quality,No
+5.0,positive,189.0,5.0,Excellent!,Yes
+5.0,positive,55.0,5.0,Not as expected,Yes
+3.0,neutral,85.0,3.0,Would buy again,No
+1.0,negative,122.0,1.0,Value for money,Yes
+3.0,positive,199.0,3.0,Value for money,Yes
+5.0,positive,110.0,5.0,Excellent!,Yes
+4.0,positive,7.0,4.0,EXCELLENT!,Yes
+3.0,neutral,61.0,3.0,Value fo money,Yes
+5.0,positive,77.0,5.0,Terrible quality,No
+2.0,negative,151.0,2.0,Value for money,Yes
+5.0,positive,21.0,5.0,Value for money,Yes
+5.0,positive,14.0,5.0,Terrible quality,Yes
+5.0,positive,155.0,5.0,Not as expected,No
+3.0,neutral,149.0,3.0,Terrible quality,Yes
+5.0,positive,30.0,5.0,Good product,Yes
+3.0,neutral,189.0,3.0,Terrible quality,YES
+4.0,positive,86.0,4.0,Value for money,Yes
+4.0,positive,68.0,4.0,Would buy again,Yes
+4.0,positive,108.0,4.0,Excellent!,Yes
+5.0,positive,166.0,5.0,Value for money,Yes
+4.0,positive,98.16935483870968,4.0,Not as expected,Yes
+5.0,positive,39.0,5.0,Value for money,Yes
+3.0,neutral,68.0,3.0,Terrible quality,es
+4.0,positive,182.0,4.0,Excellent!,YES
+4.0,positive,70.0,4.0,Terrible quality,YES
+3.0,neutral,63.0,3.0,Value for money,Yes
+5.0,positive,7.0,5.0,Not as expected,No
+5.0,positive,70.0,5.0,Terrible quality,YES
+4.0,positive,85.0,4.0,Terrible quality,Yes
+5.0,positive,43.0,5.0,Value for money,YES
+4.0,positive,37.0,4.0,Not as expected,NO
+3.73046875,negative,116.0,3.73046875,Excellent!,No
+4.0,positive,148.0,4.0,EXCELLENT!,Yes
+4.0,positive,3.0,4.0,Terrible quality,Yes
+5.0,positive,159.0,5.0,Good product,Yes
+1.0,negative,54.0,1.0,Terrible quality,Yes
+4.0,positive,92.0,4.0,Value for money,Yes
+2.0,negative,187.0,2.0,Excellent!,No
+2.0,negative,58.0,2.0,Value for money,No
+4.0,positive,93.0,4.0,Terrible quality,No
+3.0,neutral,66.0,3.0,Terrible quality,Yes
+5.0,positive,4.0,5.0,Not as expcted,Yes
+4.0,positive,82.0,4.0,Value for money,Yes
+3.0,neutral,71.0,3.0,Would uy again,Yes
+4.0,positive,126.0,4.0,Not as expected,No
+1.0,negative,98.16935483870968,1.0,Not as expected,Yes
+5.0,positive,26.0,5.0,Not as expected,Yes
+1.0,negative,12.0,1.0,Terrible quality,No
+1.0,negative,133.0,1.0,Good product,No
+4.0,positive,64.0,4.0,Value for money,No
+5.0,positive,98.16935483870968,5.0,Not as expected,No
+5.0,positive,98.16935483870968,5.0,Excellent!,Yes
+3.0,neutral,40.0,3.0,Terrible quality,YES
+3.73046875,neutral,14.0,3.73046875,Terrible quality,Yes
+4.0,positive,132.0,4.0,Not as expected,Yes
+5.0,positive,14.0,5.0,Excellent!,Yes
+4.0,positive,0.0,4.0,Would buy again,Yes
+4.0,positive,14.0,4.0,Terrible quality,No
+2.0,negative,187.0,2.0,Not s expected,Yes
+3.0,neutral,47.0,3.0,Value for money,Yes
+4.0,positive,181.0,4.0,Not as expected,Yes
+2.0,negative,182.0,2.0,Value for money,YES
+3.0,neutral,71.0,3.0,Value for money,Yes
+3.0,neutral,116.0,3.0,Good poduct,No
+4.0,positive,26.0,4.0,Good product,YES
+1.0,negative,157.0,1.0,Would buy again,NO
+4.0,positive,59.0,4.0,Terrible quality,Yes
+5.0,positive,65.0,5.0,Value for money,Yes
+1.0,negative,173.0,1.0,Would buy again,Yes
+4.0,positive,51.0,4.0,Would buy again,Yes
+5.0,positive,80.0,5.0,Not as expected,Yes
+3.0,neutral,34.0,3.0,Not as expected,Yes
+2.0,negative,120.0,2.0,Not as expected,Yes
+1.0,negative,41.0,1.0,EXCELLENT!,No
+4.0,positive,183.0,4.0,Value for money,Yes
+4.0,positive,44.0,4.0,Would buy again,Yes
+3.0,neutral,51.0,3.0,Excellent!,Yes
+5.0,positive,150.0,5.0,Terrible quality,Yes
+5.0,positive,98.16935483870968,5.0,Value for mone,YES
+3.0,neutral,28.0,3.0,Terrible quality,YES
+5.0,positive,56.0,5.0,NOT AS EXPECTED,Yes
+3.0,neutral,18.0,3.0,TERRIBLE QUALITY,Yes
+4.0,positive,7.0,4.0,Not as expected,Yes
+2.0,negative,177.0,2.0,Value for money,Yes
+4.0,positive,134.0,4.0,Value for money,No
+3.0,neutral,138.0,3.0,Terrible quality,Yes
+4.0,positive,194.0,4.0,Excellent!,YES
+3.0,neutral,65.0,3.0,Not as expected,YES
+5.0,positive,82.0,5.0,Good product,No
+2.0,negative,155.0,2.0,Good product,o
+3.0,neutral,183.0,3.0,Would buy again,No
+3.0,neutral,27.0,3.0,Excellent!,Yes
+1.0,negative,88.0,1.0,Not as expected,Yes
+5.0,positive,74.0,5.0,Would buy again,No
+5.0,positive,98.16935483870968,5.0,Excelent!,Yes
+5.0,positive,129.0,5.0,Good product,Yes
+5.0,positive,75.0,5.0,Not as expected,YES
+1.0,negative,188.0,1.0,Excellent!,Yes
+2.0,negative,75.0,2.0,Terrible quality,Yes
+4.0,positive,113.0,4.0,Not as expected,Yes
+5.0,positive,152.0,5.0,Terrible quality,No
+4.0,positive,94.0,4.0,Value for mony,Yes
+4.0,positive,53.0,4.0,Value for money,Yes
+2.0,negative,144.0,2.0,Value for money,Yes
+3.0,neutral,175.0,3.0,Would buy again,es
+4.0,positive,98.16935483870968,4.0,Ecellent!,No
+5.0,positive,188.0,5.0,Value for money,NO
+1.0,negative,1.0,1.0,Excellent!,YES
+5.0,positive,79.0,5.0,Excellent!,YES
+3.73046875,positive,64.0,3.73046875,Ecellent!,No
+5.0,positive,51.0,5.0,Not as expected,Yes
+5.0,positive,33.0,5.0,Terrible quality,Yes
+1.0,negative,44.0,1.0,Terrible quality,Yes
+5.0,positive,128.0,5.0,Would buy again,No
+4.0,positive,99.0,4.0,Value for money,No
+5.0,positive,51.0,5.0,Would buy again,Yes
+3.0,neutral,66.0,3.0,Excellent!,Yes
+4.0,positive,97.0,4.0,Good product,YES
+1.0,negative,75.0,1.0,Good product,Yes
+1.0,negative,55.0,1.0,Excellent!,Yes
+5.0,positive,185.0,5.0,Terrible quality,Yes
+5.0,positive,108.0,5.0,Terrible quality,Yes
+4.0,positive,49.0,4.0,WOULD BUY AGAIN,Yes
+4.0,positive,100.0,4.0,Not as expecte,No
+5.0,positive,118.0,5.0,Good product,Yes
+3.0,neutral,152.0,3.0,Would buy again,Yes
+5.0,positive,139.0,5.0,Good product,No
+4.0,positive,114.0,4.0,Terrible quality,Yes
+4.0,positive,72.0,4.0,Terrible quality,Yes
+5.0,positive,192.0,5.0,Excellent!,Yes
+4.0,positive,55.0,4.0,Excellent!,No
+4.0,positive,49.0,4.0,Good product,es
+5.0,positive,155.0,5.0,Terrible quality,es
+5.0,positive,98.16935483870968,5.0,Would buy again,NO
+5.0,positive,165.0,5.0,Excellent!,Yes
+4.0,positive,63.0,4.0,Terrible quality,Yes
+3.0,neutral,53.0,3.0,Value for money,YES
+3.0,neutral,35.0,3.0,Would buy again,Yes
+1.0,negative,171.0,1.0,Would buy again,Yes
+5.0,positive,43.0,5.0,Not as expected,YES
+3.0,neutral,196.0,3.0,Value for money,es
+4.0,positive,118.0,4.0,Terrible quality,Yes
+5.0,positive,92.0,5.0,Would buy again,YES
+5.0,positive,180.0,5.0,Terrible quality,YES
+1.0,negative,140.0,1.0,NOT AS EXPECTED,o
+3.0,neutral,171.0,3.0,Value for money,Yes
+5.0,positive,131.0,5.0,Excellent!,Yes
+4.0,positive,69.0,4.0,Terrible quality,No
+5.0,positive,178.0,5.0,Excellent!,No
+5.0,positive,101.0,5.0,Not as expected,Yes
+4.0,positive,197.0,4.0,Terrible quality,No
+4.0,positive,10.0,4.0,Good produc,Yes
+4.0,positive,181.0,4.0,Good product,o
+4.0,positive,109.0,4.0,Good product,No
+4.0,positive,189.0,4.0,Value for money,Yes
+5.0,positive,186.0,5.0,Terrible quality,NO
+5.0,positive,60.0,5.0,Value for money,No
+3.0,neutral,167.0,3.0,Value for money,Yes
+5.0,positive,131.0,5.0,Value for money,No
+4.0,positive,154.0,4.0,Value for money,Yes
+5.0,positive,15.0,5.0,Good product,No
+2.0,negative,6.0,2.0,Would buy again,No
+3.0,neutral,10.0,3.0,Would buy again,YES
+3.0,neutral,199.0,3.0,Not as expected,YES
+3.0,neutral,63.0,3.0,Good product,No
+3.0,neutral,179.0,3.0,Terrible uality,Yes
+5.0,positive,127.0,5.0,VALUE FOR MONEY,Yes
+4.0,positive,5.0,4.0,Would buy again,YES
+5.0,positive,119.0,5.0,Not as expected,Yes
+3.73046875,positive,47.0,3.73046875,Would buy aain,Yes
+2.0,negative,68.0,2.0,Terrible quality,Yes
+4.0,positive,120.0,4.0,TERRIBLE QUALITY,No
+5.0,positive,5.0,5.0,Good product,No
+4.0,positive,188.0,4.0,WOULD BUY AGAIN,YES
+1.0,negative,193.0,1.0,Terrible quality,YES
+5.0,positive,84.0,5.0,Excellent!,YES
+3.0,neutral,109.0,3.0,Terrible quality,Yes
+4.0,positive,180.0,4.0,Terrible quality,es
+4.0,positive,27.0,4.0,Would buy again,o
+3.0,neutral,108.0,3.0,Terrible quality,es
+3.0,neutral,132.0,3.0,Terrible quality,NO
+5.0,positive,80.0,5.0,Not as expected,Yes
+5.0,positive,100.0,5.0,Value for money,YES
+4.0,positive,57.0,4.0,Terrible quality,Yes
+3.0,neutral,23.0,3.0,Excellent!,Yes
+2.0,negative,158.0,2.0,Terrible quality,NO
+3.0,positive,168.0,3.0,Good product,Yes
+4.0,positive,67.0,4.0,Would buy aain,NO
+3.0,neutral,106.0,3.0,Excelent!,No
+1.0,positive,173.0,1.0,Not as expected,YES
+4.0,positive,9.0,4.0,Terrible quality,Yes
+3.73046875,positive,164.0,3.73046875,Terrible quality,Yes
+5.0,positive,148.0,5.0,Not as expected,Yes
+4.0,positive,20.0,4.0,Terible quality,es
+5.0,positive,123.0,5.0,Good product,Yes
+4.0,positive,112.0,4.0,Value for money,NO
+4.0,positive,96.0,4.0,Value for money,Yes
+5.0,positive,137.0,5.0,Excellent!,Yes
+5.0,positive,81.0,5.0,Terrible quality,Yes
+4.0,positive,96.0,4.0,NOT AS EXPECTED,Yes
+4.0,positive,92.0,4.0,Not as expcted,Yes
+5.0,positive,98.16935483870968,5.0,Excellent!,YES
+4.0,positive,23.0,4.0,Terrible quality,No
+4.0,positive,123.0,4.0,Excellent!,Yes
+5.0,positive,98.16935483870968,5.0,Terrible quality,NO
+2.0,negative,98.16935483870968,2.0,Value for money,es
+4.0,positive,197.0,4.0,Good product,Yes
+5.0,positive,98.16935483870968,5.0,Good product,NO
+4.0,positive,77.0,4.0,Not as expected,Yes
+3.0,neutral,132.0,3.0,Goodproduct,Yes
+4.0,positive,98.16935483870968,4.0,Terrible quality,Yes
+3.0,neutral,35.0,3.0,Terrible quality,NO
+4.0,positive,111.0,4.0,Terrible quality,YES
+3.0,neutral,165.0,3.0,VALUE FOR MONEY,Yes
+4.0,positive,130.0,4.0,Would buy again,Yes
+4.0,positive,98.16935483870968,4.0,Good product,No
+4.0,positive,21.0,4.0,Good product,Yes
+3.73046875,positive,7.0,3.73046875,Terrible quality,Yes
+3.0,neutral,188.0,3.0,Not as expected,Yes
+3.0,neutral,125.0,3.0,Value for money,Yes
+4.0,positive,77.0,4.0,Good product,o
+3.0,neutral,6.0,3.0,Would buy again,Yes
+5.0,positive,67.0,5.0,Terrible quality,NO
+5.0,positive,61.0,5.0,Excellent!,Yes
+3.0,neutral,146.0,3.0,Would buy again,Yes
+2.0,negative,106.0,2.0,Not as expected,YES
+1.0,negative,98.16935483870968,1.0,Terrible quality,No
+4.0,positive,23.0,4.0,Would buy again,Yes
+3.0,neutral,133.0,3.0,Good product,Yes
+1.0,negative,98.16935483870968,1.0,Would buy again,Yes
+4.0,positive,152.0,4.0,Terrible quality,Yes
+5.0,positive,88.0,5.0,Value for money,No
+4.0,positive,106.0,4.0,Would buy again,Yes
+5.0,positive,40.0,5.0,Terrible quality,Yes
+2.0,negative,185.0,2.0,Terrible quality,YES
+2.0,negative,187.0,2.0,Not as expected,o
+1.0,negative,109.0,1.0,Excellent!,Yes
+5.0,positive,130.0,5.0,Would buy again,Yes
+3.0,neutral,8.0,3.0,Terrible quality,No
+4.0,positive,98.16935483870968,4.0,Terrible uality,YES
+3.73046875,positive,185.0,3.73046875,Not as expected,NO
+5.0,positive,187.0,5.0,Not as expected,Yes
+3.0,positive,81.0,3.0,Terrible quality,Yes
+4.0,positive,176.0,4.0,Excelent!,Yes
+5.0,positive,93.0,5.0,Good product,Yes
+4.0,positive,132.0,4.0,Excellent!,No
+4.0,positive,189.0,4.0,Excellent!,Yes
+5.0,positive,92.0,5.0,Would buy again,YES
+5.0,positive,56.0,5.0,NOT AS EXPECTED,Yes
+4.0,positive,82.0,4.0,Value for money,Yes
+5.0,positive,55.0,5.0,Not as expected,Yes
+2.0,negative,144.0,2.0,Value for money,Yes
+1.0,negative,55.0,1.0,Excellent!,Yes
+4.0,positive,51.0,4.0,Would buy again,Yes
+3.73046875,positive,7.0,3.73046875,Terrible quality,Yes
+5.0,positive,150.0,5.0,Terrible quality,Yes
+4.0,positive,92.0,4.0,Not as expcted,Yes
+3.73046875,neutral,14.0,3.73046875,Terrible quality,Yes
+4.0,positive,197.0,4.0,Terrible quality,No
+5.0,positive,43.0,5.0,Value for money,YES
+5.0,positive,74.0,5.0,Would buy again,No
+4.0,positive,148.0,4.0,EXCELLENT!,Yes
